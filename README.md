@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @SyedZakirHossain
-- 👀 I’m interested in web programming, android apps ,raspbery pi and arduino
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on .........
+- 👋 Hi, I’m @Syed Zakir Hossain. You can call me Zakir.
+- 👀 I’m interested in RAS [The reticular activation system],Software Development,
+-                      renewable energy, reuse of water,pyrolysis,forest fire protection,
+-                      web programming, android apps,arduino,
+-                      raspbery pi,AI.....
+- 🌱 I’m currently learning Django and React...
+- 💞️ I’m looking to collaborate on renewable energy, reuse of water, pyrolysis, forest fire protection .........
 - 📫 How to reach me ...
+-                        email: inspirayhan@gmail.com 
                          twitter:@inspirayhan  
-                         email: inspirayhan@gmail.com 
+                         
 
 <!---
 SyedZakirHossain/SyedZakirHossain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
