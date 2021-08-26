@@ -3,7 +3,7 @@
 -                      renewable energy, reuse of water, pyrolysis, forest fire protection,
 -                      web programming, android apps, arduino,
 -                      raspbery pi, AI.
-- 🌱 I’m currently working with Django and React.
+- 🌱 I’m currently working in a poject build with Django and React.
 - 💞️ I’m looking to collaborate on renewable energy, reuse of water, pyrolysis, forest fire protection .........
 - 📫 How to reach me ...
 -                        email: inspirayhan@gmail.com 
