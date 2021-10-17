@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Syed Zakir Hossain. You can call me Zakir.
 - 👀 I’m interested in RAS [The reticular activation system], Software Development,
--                      Cheap method of energy conversion, reuse of water, pyrolysis reuse of plastic waste , forest fire protection save the soil,
--                      web programming [Django - React ], android apps, arduino,
+-                      Cheap method of energy conversion.
+-                      Reuse of water. 
+-                      Pyrolysis reuse of plastic waste . 
+-                      Forest fire protection save the soil,
+-                      Web programming [Django - React ], android apps, arduino,
 -                      raspbery pi, AI.
 - 🌱 I’m currently working in a poject build with Django and React.
 - 💞️ I’m looking to collaborate on renewable energy, reuse of water, pyrolysis, forest fire protection .........
