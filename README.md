@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syed Zakir Hossain. You can call me Zakir.
 - 👀 I’m interested in RAS [The reticular activation system], Software Development,
 -                      Cheap method of energy conversion.
--                      Reuse of water. 
+-                      Reuse of grey  water. 
 -                      Pyrolysis reuse of plastic waste . 
 -                      Forest fire protection save the soil,
 -                      Web programming [Django - React ], android apps, arduino,
