@@ -3,7 +3,7 @@
 -                      Cheap method of energy conversion.
 -                      Reuse of grey  water. 
 -                      Pyrolysis reuse of plastic waste . 
--                      Forest fire protection save the soil,
+-                      Forest fire protection save the soil with AI,
 -                      Web programming [Django - React ], android apps, arduino,
 -                      raspbery pi, AI.
 - 🌱 I’m currently working in a poject build with Django and React.
