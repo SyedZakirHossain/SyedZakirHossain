@@ -6,7 +6,7 @@
                                         
   
                       
-- 🌱 I’m currently working with save the soil with AI poject .
+- 🌱 I’m currently working with "Save the soil with AI" poject .
 - 💞️ I’m looking to collaborate on forest fire protection ,cheap method of energy conversion., reuse of water, pyrolysis.........
 - 📫 How to reach me ...
 -                        email: inspirayhan@gmail.com 
