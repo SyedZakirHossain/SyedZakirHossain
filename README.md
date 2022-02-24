@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @Syed Zakir Hossain. You can call me Zakir.
 - 👀 I’m interested in RAS [The reticular activation system],Front end and back end Web Development
 -  Fire protection  with AI. 
--                                   
-- Web programming [(Django - React),(Express  - React) ].
-                                        
-  
+                                 
+- Web programming [(Django - React),(Express  - React) ].                                       
                       
-- 🌱 I’m currently working with "Fire protection with AI" poject .
-- 💞️ I’m looking to....
+- 🌱 I’m currently working with "Control fire with AI" poject .
+- 💞️ I’m looking for ....
 
 
 
