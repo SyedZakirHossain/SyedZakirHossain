@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syed Zakir Hossain. You can call me Zakir.
+- 👋 Hi, I’m Syed Zakir Hossain. You can call me Zakir.
 - 👀 I’m interested in 💞️ Full Stack web development [Python - Django ]  Android sdk [Java ]   💞️                             
 - Work link:                                  
 - Play store: https://play.google.com/store/apps/dev?id=5342275750675628120&hl=en
