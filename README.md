@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently working with "Control fire with AI" poject .💞️
 -  💞️ I’m looking for better job oppertunities where I can learn more and contribute more to the evolving tech industry.  
- -📫 How to reach me ...
+- 📫 How to reach me ...
          email: inspirayhan@gmail.com 
          twitter:@inspirayhan                           
          LinkedIn:https://www.linkedin.com/in/syedzakirhossain/
