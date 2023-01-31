@@ -10,6 +10,4 @@
 - 📫 How to reach me ...
          email: inspirayhan@gmail.com                                 
          LinkedIn: https://www.linkedin.com/in/syedzakirhossain/
-<!---
-SyedZakirHossain/SyedZakirHossain is a ✨ special ✨ repository .
---->
+
