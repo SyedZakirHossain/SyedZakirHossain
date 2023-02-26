@@ -31,9 +31,7 @@ Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedzakirhossain )](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedzakirhossain &show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedzakirhossain )  
 
 ![GitHub metrics](https://metrics.lecoq.io/syedzakirhossain )  
 
