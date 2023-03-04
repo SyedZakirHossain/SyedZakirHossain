@@ -18,7 +18,6 @@ Android sdk [Java ]   💞️ ](https://media.licdn.com/dms/image/C5616AQHTP7gMW
 Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework, PostgreSQL, Android studio SDK
 
 - 🔭 I’m currently working on AI Fire detection and response 
-- 🌱 I’m currently learning Open CV 
 - 👯 I’m looking to collaborate on AI Fire detection and response projects 
 - 🤔 I’m looking for help with . Can you give me a hand with this? 
 -💞️ I’m looking for better job oppertunities where I can learn more and contribute more to the evolving tech industry. 
