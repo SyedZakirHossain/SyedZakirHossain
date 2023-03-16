@@ -21,7 +21,7 @@ Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework
 - 👯 I’m looking to collaborate on AI Fire detection and response projects 
 - 🤔 I’m looking for help with . Can you give me a hand with this? 
 -💞️ I’m looking for better job oppertunities where I can learn more and contribute more to the evolving tech industry. 
-- 💬 Ask me about Object detection and response  
+ 
 - 📫 How to reach me: inspirayhan@gmail.com  
                       LinkedIn: https://www.linkedin.com/in/syedzakirhossain/
 
