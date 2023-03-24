@@ -1,9 +1,9 @@
-### I am expressing my gratitude to Mr Joel Spolsky and Mr Jeff Atwood for creating Stackoverflow in 2008.
+### Expressing my gratitude to Mr Joel Spolsky and Mr Jeff Atwood for creating Stackoverflow in 2008.
 ### Even today it is very helpful. In other words sometimes live saver. Thanks.                           
       
 ### Hi there 👋, I’m Syed Zakir Hossain. You can call me Zakir.
-####  I’m interested in 💞️ Full stack web development [Python - Django -DRF - Kivy ],Object detection,Computer vision,  Android sdk [Java ]   💞️ 
-![ I’m interested in 💞️ Full stack web development [Python - Django ]
+####  Interested in 💞️ Full stack web development [Python - Django -DRF - Kivy ],Object detection,Computer vision,  Android sdk [Java ]   💞️ 
+![ Interested in 💞️ Full stack web development [Python - Django - DRF ]
 Android sdk [Java ]   💞️ ](https://media.licdn.com/dms/image/C5616AQHTP7gMWmlAgw/profile-displaybackgroundimage-shrink_350_1400/0/1658138760748?e=1683158400&v=beta&t=kVIdFOPG1G5b1gDQzSQd9tuzZfruOTJl3pKbku1E9wE)
 
 - Full Stack Web Development.
@@ -17,10 +17,10 @@ Android sdk [Java ]   💞️ ](https://media.licdn.com/dms/image/C5616AQHTP7gMW
 
 Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework, PostgreSQL, Android studio SDK
 
-- 🔭 I’m currently working on AI Fire detection and response 
-- 👯 I’m looking to collaborate on AI Fire detection and response projects 
-- 🤔 I’m looking for help with . Can you give me a hand with this? 
--💞️ I’m looking for better job oppertunities where I can learn more and contribute more to the evolving tech industry. 
+- 🔭 Currently working on AI Fire detection and response 
+- 👯 Looking to collaborate on AI Fire detection and response projects 
+- 🤔 Looking for help with . Can you give me a hand with this? 
+-💞️ Looking for better job oppertunities where I can learn more and contribute more to the evolving tech industry. 
  
 - 📫 How to reach me: inspirayhan@gmail.com  
                       LinkedIn: https://www.linkedin.com/in/syedzakirhossain/
