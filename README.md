@@ -2,7 +2,7 @@
                            
       
 ### Hi there 👋, I’m Syed Zakir Hossain. You can call me Zakir.
-####  I’m interested in 💞️ Full stack web development [Python - Django ],Object detection,Computer vision,  Android sdk [Java ]   💞️ 
+####  I’m interested in 💞️ Full stack web development [Python - Django -DRF - Kivy ],Object detection,Computer vision,  Android sdk [Java ]   💞️ 
 ![ I’m interested in 💞️ Full stack web development [Python - Django ]
 Android sdk [Java ]   💞️ ](https://media.licdn.com/dms/image/C5616AQHTP7gMWmlAgw/profile-displaybackgroundimage-shrink_350_1400/0/1658138760748?e=1683158400&v=beta&t=kVIdFOPG1G5b1gDQzSQd9tuzZfruOTJl3pKbku1E9wE)
 
