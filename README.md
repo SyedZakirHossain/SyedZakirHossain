@@ -1,5 +1,5 @@
 ### Gratitude to Mr Joel Spolsky and Mr Jeff Atwood for creating Stackoverflow in 2008.
-### Even today it is very helpful. In other words sometimes live saver. Thanks.                           
+### Even today it is very helpful. In other words sometimes live saver to millions of programmers. Thanks.                           
       
 ### Hi there 👋, My name is Syed Zakir Hossain. You can call me Zakir.
 ####  Interested in 💞️ Full stack web development [Python - Django -DRF - Kivy ],Object detection,Computer vision,  Android sdk [Java ]   💞️ 
