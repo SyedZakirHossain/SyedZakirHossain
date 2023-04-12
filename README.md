@@ -3,7 +3,8 @@
       
 ### Hi there 👋, My name is Syed Zakir Hossain. You can call me Zakir.
 ####  Interested in 💞️ Full stack web development [Python - Django -DRF - Kivy ],Object detection,Computer vision,  Android sdk [Java ]   💞️ 
-![ Interested in 💞️ Full stack web development [Python - Django - DRF ]
+! Interested in 💞️Fire detection with AI and instant multi-functional response system.
+Full stack web development [Python - Django - DRF -PostgreSQL ]
 Android sdk [Java ]   💞️ ](https://media.licdn.com/dms/image/C5616AQHTP7gMWmlAgw/profile-displaybackgroundimage-shrink_350_1400/0/1658138760748?e=1683158400&v=beta&t=kVIdFOPG1G5b1gDQzSQd9tuzZfruOTJl3pKbku1E9wE)
 
 - Full Stack Web Development.
