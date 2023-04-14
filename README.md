@@ -24,11 +24,6 @@ Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework
                       LinkedIn: https://www.linkedin.com/in/syedzakirhossain/
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedzakirhossain )(https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![GitHub metrics](https://metrics.lecoq.io/syedzakirhossain )  
 
 ![Profile views](https://gpvc.arturio.dev/syedzakirhossain )  
