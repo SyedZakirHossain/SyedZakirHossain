@@ -1,6 +1,5 @@
 ### Gratitude to Mr Joel Spolsky and Mr Jeff Atwood for creating Stackoverflow in 2008.
-### Even today it is very helpful. In other words sometimes live saver to millions of programmers. Thanks.                           
-      
+     
 ### Hi there 👋, My name is Syed Zakir Hossain. You can call me Zakir.
 ####  Interested in 💞️Fire detection with AI and instant multi-functional response system. 💞️ Full stack web development [Python - Django -DRF - Kivy -PostgreSQL], 💞️  💞️
   
@@ -19,7 +18,6 @@ Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework
 
 - 🔭 Currently working on "Fire detection with AI and instant multi-functional response system". 
 - 👯 Looking to collaborate on "Fire detection with AI and instant multi-functional response system"
-- 🤔 Looking for help with . Can you give me a hand with this? 
 -💞️ Looking for better job oppertunities where I can learn more and contribute more to the evolving tech industry. 
  
 - 📫 How to reach me: inspirayhan@gmail.com  
