@@ -16,8 +16,8 @@
 
 Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework, PostgreSQL, Android studio SDK
 
-- 🔭 Currently working on "Fire detection with AI and instant multi-functional response system". 
-- 👯 Looking to collaborate on "Fire detection with AI and instant multi-functional response system"
+- 🔭 Currently working on "Fire detection with AI and instant automatic multi-functional response system". 
+- 👯 Looking to collaborate on "Fire detection with AI and instant automatic multi-functional response system"
 -💞️ Looking for better oppertunities where I can learn more and contribute more to the evolving tech industry. 
  
 - 📫 How to reach me: inspirayhan@gmail.com  
