@@ -20,7 +20,7 @@
 Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework, PostgreSQL, Android studio SDK
 
 - 🔭 Currently working on "Fire detection with AI and instant automatic multi-functional response system". 
-- 🔭 Currently working on "Topic wise indexing The Holy Quran . When you click on a topic then all verses related to that specific topic will be displayed on one page.Software is ready.Populate with data is going on. ".
+- 🔭 Currently working on "Topic wise indexing The Holy Quran . When you click on a topic then all verses related to that specific topic will be displayed on one page. Software is ready. Populate with data is going on. ".
 - 👯 Looking to collaborate on "Fire detection with AI and instant automatic multi-functional response system"
 -💞️ Looking for better oppertunities where I can learn more and contribute more to the evolving tech industry. 
  
