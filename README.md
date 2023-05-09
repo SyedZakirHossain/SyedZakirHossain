@@ -1,6 +1,5 @@
 ### Gratitude to Mr Joel Spolsky and Mr Jeff Atwood for creating Stackoverflow in 2008.
      
-### Hi there 👋, My name is Syed Zakir Hossain. You can call me Zakir.
 ####  Interested in 💞️Fire detection with AI and instant automatic multi-functional response system. 💞️ Full stack web development [Python - Django -DRF - Kivy -PostgreSQL], 💞️  💞️
   
 ![000](https://user-images.githubusercontent.com/63798914/231829501-cc58fd0e-8e34-46d3-82b1-fb297a273312.jpg)
