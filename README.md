@@ -5,7 +5,7 @@
 ![000](https://user-images.githubusercontent.com/63798914/231829501-cc58fd0e-8e34-46d3-82b1-fb297a273312.jpg)
 
 - Full Stack Web Development.
-- -Work link:https://topicalquran.pythonanywhere.com/ 
+- -Work link:https://www.topicalquran.xyz/ 
 -Work link:https://clearq.pythonanywhere.com/ 
 
 -Work link:https://django1-8a65.onrender.com/ 
