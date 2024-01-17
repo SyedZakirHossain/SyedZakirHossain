@@ -1,6 +1,6 @@
 ### Gratitude to Mr Joel Spolsky and Mr Jeff Atwood for creating Stackoverflow in 2008.
      
-####  Interested in 💞️Fire detection with AI and instant automatic multi-functional response system. 💞️ Full stack web development [Python - Django -DRF - Kivy -PostgreSQL], 💞️  💞️
+####  Interested in 💞️Fire detection with AI and instant automatic multi-functional response system. 💞️ Full stack web development [Python - Django -DRF -PostgreSQL], 💞️  💞️
   
 ![000](https://user-images.githubusercontent.com/63798914/231829501-cc58fd0e-8e34-46d3-82b1-fb297a273312.jpg)
 
@@ -19,7 +19,7 @@
 Skills: Html, CSS, Java script, Bootstrap, Python, Django, Django REST Framework, PostgreSQL, Android studio SDK
 
 - 🔭 Currently working on "Fire detection with AI and instant automatic multi-functional response system". 
-- 🔭 Currently working on "Topic wise indexing The Holy Quran . When you click on a topic then all verses related to that specific topic will be displayed on one page. Software is ready. Populate with data is going on. ".
+- 🔭 Currently working on "Topic wise indexing The Holy Quran . When you click on a topic then all verses related to that specific topic will be displayed on one page. Software is ready website is live now. Populate with data is going on. ".
 - 👯 Looking to collaborate on "Fire detection with AI and instant automatic multi-functional response system"
 -💞️ Looking for better oppertunities where I can learn more and contribute more to the evolving tech industry. 
  
