@@ -6,7 +6,6 @@
 
 - Full Stack Web Development.
 - -Work link:https://www.topicalquran.xyz/ 
--Work link:https://clearq.pythonanywhere.com/ 
 
 -Work link:https://django1-8a65.onrender.com/ 
 
